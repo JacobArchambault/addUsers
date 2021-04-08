@@ -1,0 +1,9 @@
+you'll need the following.
+
+npm init -y
+npm install express mongoose --save
+
+mongod needs to be running before you run index.js
+
+
+
